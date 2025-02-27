@@ -82,7 +82,7 @@
       ]
     }
   },
-  "$defs": {
+  
     "name": {
       "type": "object",
       "description": "Person name",
